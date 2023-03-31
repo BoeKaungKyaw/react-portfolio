@@ -24,7 +24,7 @@ const Header = () =>  (
       </li>
       <li>
         <Link href="#teach">
-          <NavLink>Technology</NavLink>
+          <NavLink>barnyar</NavLink>
         </Link>
       </li>
       <li>
@@ -34,7 +34,7 @@ const Header = () =>  (
       </li>
     </Div2>
     <Div3>
-      <SocialIcons href=''>
+      <SocialIcons href='https://github.com'>
         <AiFillGithub size="3rem"/>
       </SocialIcons>
       <SocialIcons href=''>

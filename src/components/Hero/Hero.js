@@ -12,7 +12,7 @@ const Hero = () => (
        personal page.
       </SectionTitle>
       <SectionText>
-        I am recently graduate from UClan with first class degree🎓, and I want to work as front-end developer.🚀 
+        I recently graduated from uClan with a first-class degree🎓, and I want to work as a front-end developer.🚀 
       </SectionText>
       <Button onclick={()=> {
         window.location="https://google.com"
